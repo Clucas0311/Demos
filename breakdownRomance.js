@@ -63,7 +63,7 @@ function generateWordPairs(stringOfWords) {
 // wordArray[1]
 // [ 'you', 'you', 'you', 'and' ] length =  4
 //    0       1       2     3
-//            _
+//                  -
 
 // let wordArray = ["you", "you", "cool", "yes", "no"];
 
